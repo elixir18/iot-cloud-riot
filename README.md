@@ -9,8 +9,10 @@ Author: Linta Joseph (1474363), Syed Ahmed Zaki(1322363)
 [Google Drive link to the video]()
 
 # Presentation 
-   Presentation on topic 'package'
-   [Google Slides link to presentation](https://docs.google.com/presentation/d/1hrXaewqivHxVyLq9jCytpMvTzpTxJ-yI_wwBTIthlHI/edit#slide=id.p)
+   
+  Presentation on topic 'package'
+  [Google Slides link to presentation](https://docs.google.com/presentation/d/1hrXaewqivHxVyLq9jCytpMvTzpTxJ-yI_wwBTIthlHI/edit#slide=id.p)
+  
   Final presentation
   [Google Slides link to presentation](https://docs.google.com/presentation/d/1bdDMfEQ3tYdK1lGkH5KHnMsGwzbkqkJ0AcXlb6eBV8A/edit#slide=id.g2593bad232c_1_0)
 
